@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Episodes on gean-podcast-theme</title>
+    <link>https://yiqilai.github.io/gean-podcast-theme/episode/</link>
+    <description>Recent content in Episodes on gean-podcast-theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 13 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yiqilai.github.io/gean-podcast-theme/episode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>色は匂えど散りぬるを</title>
+      <link>https://yiqilai.github.io/gean-podcast-theme/episode/1/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yiqilai.github.io/gean-podcast-theme/episode/1/</guid>
+      <description> 色は匂えど散りぬるを  Google Twitter Facebook GitHub  </description>
+    </item>
+    
+  </channel>
+</rss>

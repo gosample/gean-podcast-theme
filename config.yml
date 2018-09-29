@@ -1,0 +1,15 @@
+baseurl: "https://yiqilai.github.io/gean-podcast-theme"
+title: "gean-podcast-theme"
+footnotereturnlinkcontents: "↩"
+contentdir: "content"
+layoutdir: "layout"
+staticdir: "static"
+publishdir: "docs"
+uglyURLs: false
+metaDataFormat: "yaml"
+params:
+  itunes: https://itunes.apple.com/podcast/id123456789
+  android: http://subscribeonandroid.com/yiqilai.github.io/gean-podcast-theme/index.xml
+  feed: https://yiqilai.github.io/gean-podcast-theme/index.xml
+permalinks:
+  post: "/:title"
